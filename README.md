@@ -18,7 +18,7 @@ Runtime Settings were set to log only on errors and generate snapshot on errors,
 There is a Web - HTTP/HTML script that does the same steps
 
 This script has 3 transactions:  
-West Wind-TruClient-S01-01 Homepage
-West Wind-TruClient-S01-02 Upload File Standard HTML Form Upload
-West Wind-TruClient-S01-03 Ajax File Upload
+West Wind-TruClient-S01-01 Homepage  
+West Wind-TruClient-S01-02 Upload File Standard HTML Form Upload  
+West Wind-TruClient-S01-03 Ajax File Upload  
 West Wind-TruClient-S01-04 Uppy UI
